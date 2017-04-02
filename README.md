@@ -6,3 +6,5 @@ This program calculates Pi from generating random numbers
 
 ## [From Infinite Series](/infiniteSeries.py)
 A python script that generates Pi from an infinite series. The generated number gets more accurate the longer the program is run for.
+## [From Infinite Series 2](/infiniteSeries.py)
+Another script that generates Pi from a different infinite series
